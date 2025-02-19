@@ -80,7 +80,7 @@
 
 ### Решение 3
 
-<img src = "img/img2.png" width = 100%>
+<img src = "img/img2.png" width = 50%>
 
 ---
 
